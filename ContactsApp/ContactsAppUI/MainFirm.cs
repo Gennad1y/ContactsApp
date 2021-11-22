@@ -16,6 +16,8 @@ namespace ContactsAppUI
     {
         public MainFirm()
         {
+           //что-то написано
+
             InitializeComponent();
         }
     }
