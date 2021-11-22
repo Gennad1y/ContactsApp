@@ -1,6 +1,6 @@
 ﻿namespace ContactsAppUI
 {
-    partial class Form1
+    partial class MainFirm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
